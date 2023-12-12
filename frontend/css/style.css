@@ -1,0 +1,31 @@
+p {
+    color: lime; 
+    font-size: medium;
+}
+
+ul {
+    color: white;
+    font-size: 12px;
+    font-family: "press start 2p" ;
+    
+}
+
+h1 {
+    color: white
+    
+}
+
+h2 {
+    color: white;
+}
+
+a {
+    color: green;
+}
+body {
+    background-color: black
+}
+
+.grey {
+    color: grey
+}
